@@ -4,9 +4,6 @@
 <h3 align="center">A passionate developer from Nepal</h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kausik10" alt="kausik10" /></a> </p>
-
 - 🔭 I’m currently working on [Revamp](https://github.com/revamp-org/)
 
 - 🌱 I’m currently learning **Next.js, AI, Rust, reactnative**
@@ -29,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kausik10&show_icons=true&locale=en&layout=compact" alt="kausik10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kausik10&show_icons=true&locale=en" alt="kausik10" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kausik10&" alt="kausik10" /></p>
 
