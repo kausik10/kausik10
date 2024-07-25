@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Revamp](https://github.com/revamp-org/)
 
-- 🌱 I’m currently learning **Next.js, AI, Rust, reactnative**
+- 🌱 I’m currently learning **Next.js, AI, Golang, AWS, reactnative**
 
 - 💬 Ask me about **react, javascript, python**
 
