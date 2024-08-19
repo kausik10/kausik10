@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kausik</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
+- ✍ Check out my blogs on lifestyle, poetry & technology on [Kausik's Blogs](https://kausikpaudel.com.np/blog)
 
 - 🔭 I’m currently working on [Revamp](https://github.com/revamp-org/)
 
